@@ -1,6 +1,6 @@
 # KalmanFilterExample4
 
-[Kalman filterer example](https://github.com/richelbilderbeek/KalmanFilterExample) 4: single state, 
+[Kalman filterer example](https://github.com/richelbilderbeek/KalmanFilterExamples) 4: single state, 
 use of 1x1 boost::numeric::ublas::matrix and boost::numeric::ublas::vector is an example to use a Kalman filter.
 
 # External links
